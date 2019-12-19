@@ -1,4 +1,3 @@
-// import { createClaim, signClaim } from "./claim";
 import IntegrateSDK from "../lib/factom-harmony-integrate-js-sdk/dist/factom-harmony-integrate-js-sdk";
 
 const configure = {
