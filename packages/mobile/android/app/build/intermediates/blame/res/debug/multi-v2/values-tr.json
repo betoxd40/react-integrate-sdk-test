@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/alberto/Documents/Yo/AwesomeProject2/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-tr/values-tr.xml",
+            "outputFile": "/home/alberto/Documents/Factom/react-integrate-sdk-test/packages/mobile/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-tr/values-tr.xml",
             "map": [
                 {
                     "source": "/home/alberto/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/ce9fa8c11a9119d33b30faf58f5884b2/res/values-tr/values.xml",

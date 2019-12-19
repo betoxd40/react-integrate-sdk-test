@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/alberto/Documents/Yo/AwesomeProject2/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ja/values-ja.xml",
+            "outputFile": "/home/alberto/Documents/Factom/react-integrate-sdk-test/packages/mobile/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ja/values-ja.xml",
             "map": [
                 {
                     "source": "/home/alberto/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/f5ed0a99b437bdfefd6949d2c0ed4913/res/values-ja/values-ja.xml",

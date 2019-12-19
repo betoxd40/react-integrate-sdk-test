@@ -1,4 +1,7 @@
 {
+  "name": "my-app",
+  "version": "0.1.0",
+  "private": true,
   "scripts": {
     "start": "react-native start",
     "android": "react-native run-android",
@@ -26,14 +29,14 @@
   "devDependencies": {
     "@babel/core": "~7.6.0",
     "babel-jest": "~24.9.0",
+    "babel-preset-expo": "~8.0.0",
     "jest": "~24.9.0",
     "jetifier": "~1.6.4",
     "metro-react-native-babel-preset": "~0.56.0",
+    "node-libs-browser": "^2.2.1",
     "react-test-renderer": "~16.9.0",
-    "babel-preset-expo": "~8.0.0",
     "rn-nodeify": "^10.2.0"
   },
-  "private": true,
   "react-native": {
     "fs": "react-native-level-fs"
   },
