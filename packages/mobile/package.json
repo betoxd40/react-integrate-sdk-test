@@ -1,5 +1,5 @@
 {
-  "name": "my-app",
+  "name": "mobile-app",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -7,7 +7,8 @@
     "android": "react-native run-android",
     "ios": "react-native run-ios",
     "web": "expo start --web",
-    "postinstall": "jetify"
+    "postinstall": "jetify",
+    "test": "jest src/test/*"
   },
   "dependencies": {
     "asyncstorage-down": "^4.2.0",

@@ -1,5 +1,5 @@
 {
-  "name": "my-app",
+  "name": "web-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -62,7 +62,7 @@
     "workbox-webpack-plugin": "4.3.1"
   },
   "scripts": {
-    "test": "jest src/utils/*"
+    "test": "jest src/test/*"
   },
   "eslintConfig": {
     "extends": "react-app"
