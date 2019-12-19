@@ -1,11 +1,11 @@
-import React from 'react';
-import IntegrateSDK from "./lib/factom-harmony-integrate-js-sdk/dist/factom-harmony-integrate-js-sdk";
+import React from "react";
+import { createClaim } from "./utils/claim";
+
+const claim = createClaim();
+console.log(claim);
 
 function App() {
-  return (
-    <div className="App">
-    </div>
-  );
+  return <div className="App"></div>;
 }
 
 export default App;
