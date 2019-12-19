@@ -1,0 +1,43 @@
+{
+  "scripts": {
+    "start": "react-native start",
+    "android": "react-native run-android",
+    "ios": "react-native run-ios",
+    "web": "expo start --web",
+    "postinstall": "jetify"
+  },
+  "dependencies": {
+    "asyncstorage-down": "^4.2.0",
+    "browserify-sign": "^4.0.4",
+    "expo": "~36.0.0",
+    "factom-harmony-integrate": "git+ssh://git@github.com/FactomProject/factom-harmony-integrate#v1.3.0-rc1",
+    "react": "~16.9.0",
+    "react-dom": "~16.9.0",
+    "react-native": "~0.61.4",
+    "react-native-fs": "^2.16.2",
+    "react-native-gesture-handler": "~1.5.0",
+    "react-native-level-fs": "^3.0.1",
+    "react-native-randombytes": "^3.5.3",
+    "react-native-reanimated": "~1.4.0",
+    "react-native-screens": "~2.0.0-alpha.12",
+    "react-native-unimodules": "~0.7.0",
+    "react-native-web": "~0.11.7"
+  },
+  "devDependencies": {
+    "@babel/core": "~7.6.0",
+    "babel-jest": "~24.9.0",
+    "jest": "~24.9.0",
+    "jetifier": "~1.6.4",
+    "metro-react-native-babel-preset": "~0.56.0",
+    "react-test-renderer": "~16.9.0",
+    "babel-preset-expo": "~8.0.0",
+    "rn-nodeify": "^10.2.0"
+  },
+  "private": true,
+  "react-native": {
+    "fs": "react-native-level-fs"
+  },
+  "browser": {
+    "fs": "react-native-level-fs"
+  }
+}

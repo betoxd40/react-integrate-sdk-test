@@ -1,0 +1,7 @@
+#Thu Dec 19 09:44:28 ART 2019
+base.1=/home/alberto/Documents/Yo/AwesomeProject2/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.1=classes.dex
+base.0=/home/alberto/Documents/Yo/AwesomeProject2/android/app/build/intermediates/transforms/dexMerger/debug/1
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=classes.dex
